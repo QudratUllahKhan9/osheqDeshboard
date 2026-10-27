@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Layout from "./components/Layout";
-import css from './App.css'
+import App from './App.css'
 import Dashboard from "./pages/Dashboard";
 import Academies from "./pages/Academies";
 import AcademyDetails from "./pages/AcademyDetails";
